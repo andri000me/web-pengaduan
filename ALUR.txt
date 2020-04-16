@@ -1,0 +1,9 @@
+Alur
+
+1. buat user_petugas baru dg admin
+2. bikin user_masyarakat baru
+3. user_masyarakat ngajuin pengaduan dg input di form pengaduan
+4. user_petugas akan ngajuin untuk memberi tanggapan atas pengaduan yg ada dg cara klik ambil atas pengaduan
+5. admin akan approve pengajuan dari petugas
+6. petugas memberi tanggapan ata pengaduan yg telah di approve admin
+7. masyarakat dapat melihat tanggapan atas pengaduannya
